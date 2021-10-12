@@ -1,0 +1,50 @@
+.logo{
+    width: 100px;
+    margin-top: 30px;
+  
+}
+.container{
+    margin-left: 30px;
+}   
+    
+
+.navigation{
+
+    margin-top: 25px;
+}
+.navigation-a{
+    padding: 7.5px 0;
+    display: inline-block;
+    color: #3D58A6;
+    font-size: 22px;
+
+}
+.navigation-a:hover{
+    color: #EE4036;
+
+}
+
+.banner-img{
+    margin-top: 20px;
+}
+
+.social-a img{
+    height: 30px;
+    
+}
+.social-li{
+    display: inline-block;
+}
+.social-a.fb{
+    padding-right: 30px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: blue;
+    display: inline-block;
+}
+.social-a.youtube{
+    padding-left: 30px;
+}
+.footer{
+    margin-top: 30px;
+}
