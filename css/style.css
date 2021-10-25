@@ -50,3 +50,33 @@
 .footer{
     margin-top: 30px;
 }
+.article{
+    margin-top: 40px;
+}
+.date{
+    /* height: 56px;
+    width: 56px; */
+    padding: 8px;
+    background-color: #3D58A6;
+    font-size: 48px;
+    color: white;
+    display: inline-block;
+}
+.month{
+    font-size: 22px;
+    color: #3D58A6;
+    margin-top: 8px;
+}
+.article-title{
+    font-size: 20px;
+    display: block;
+    margin-top: 25px;
+}
+.article-img{
+    margin-top: 25px;
+}
+.par{
+    font-size: 16px;
+    margin-top: 30px;
+    line-height: 20px;
+}
