@@ -17,6 +17,7 @@
     display: inline-block;
     color: #3D58A6;
     font-size: 22px;
+    font-family: 'BPG Nino Mtavruli Bold';
 
 }
 .navigation-a:hover{
@@ -61,16 +62,19 @@
     font-size: 48px;
     color: white;
     display: inline-block;
+    font-family: 'BPG Nino Mtavruli';
 }
 .month{
     font-size: 22px;
     color: #3D58A6;
     margin-top: 8px;
+    font-family: 'BPG Nino Mtavruli';
 }
 .article-title{
     font-size: 20px;
     display: block;
     margin-top: 25px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 .article-img{
     margin-top: 25px;
@@ -79,4 +83,69 @@
     font-size: 16px;
     margin-top: 30px;
     line-height: 20px;
+    font-family: 'BPG Ingiri Arial';
+}
+
+.contact-section{
+    width: 280px;
+    margin: 150px auto;
+}
+.contact-title{
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    color: #3D58A6;
+}
+.row{
+    font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+    margin: 5px auto;
+}
+.key{
+color: #808080;
+}
+.value{
+color: #000000;
+}
+.feature-block{
+    margin-top: 120px;
+}
+.feature-heading{
+    font-family: 'Roboto';
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+.feature-heading .link{
+    text-transform: lowercase;
+    color: red
+}
+.feature-item{
+    width: 570px;
+    background-color: #F2F2F2;
+    padding: 15px 25px 40px 15px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.feature-item .title{
+    font-family: 'Roboto';
+    font-size: 22px;
+    color: #3D58A6;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
+
+}
+.feature-item .content-img{
+    width: 100px;
+    margin: auto 60px auto 25px;
+    vertical-align: bottom;
+    display: inline-block;
+ 
+}
+.feature-item .content-p{
+    display: inline-block;
+    width: calc(100% - 185px);
+    vertical-align: top;
+
 }
