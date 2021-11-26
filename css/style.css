@@ -1,3 +1,15 @@
+.inline-block{
+    display: inline-block;
+}
+.vertical-middle{
+    vertical-align: middle;
+}
+.vertical-top{
+    vertical-align: top;
+}
+.vertical-bottom{
+    vertical-align: bottom;
+}
 .logo{
     width: 100px;
     margin-top: 30px;
@@ -84,11 +96,21 @@
     margin-top: 30px;
     line-height: 20px;
     font-family: 'BPG Ingiri Arial';
+
+}
+.content-right-block{
+    width: 280px;
 }
 
-.contact-section{
-    width: 280px;
-    margin: 150px auto;
+.content-section{
+    background-color: #E6E6E6;
+    padding: 30px 0 30px 30px;
+}
+.iframe{
+    width: 870px;
+    height: 470px;
+    border: 0;
+    margin-left: 40px;
 }
 .contact-title{
     font-size: 20px;
